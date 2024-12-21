@@ -10,6 +10,7 @@
 
 This is a simple SMTP mailer service for sending emails using Node.js and Express.
 
+
 ## Table of Contents
 
 - [Features](#features)
